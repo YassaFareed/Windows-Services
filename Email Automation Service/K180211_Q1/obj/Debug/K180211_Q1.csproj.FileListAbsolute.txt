@@ -1,0 +1,11 @@
+C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q1\K180211_Q1\bin\Debug\K180211_Q1.exe.config
+C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q1\K180211_Q1\bin\Debug\K180211_Q1.exe
+C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q1\K180211_Q1\bin\Debug\K180211_Q1.pdb
+C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q1\K180211_Q1\obj\Debug\K180211_Q1.csprojAssemblyReference.cache
+C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q1\K180211_Q1\obj\Debug\K180211_Q1.exe
+C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q1\K180211_Q1\obj\Debug\K180211_Q1.pdb
+C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q1\K180211_Q1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q1\K180211_Q1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q1\K180211_Q1\obj\Debug\K180211_Q1.ProjectInstaller.resources
+C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q1\K180211_Q1\obj\Debug\K180211_Q1.csproj.GenerateResource.cache
+C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q1\K180211_Q1\obj\Debug\K180211_Q1.csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q3\K180211_Q3\bin\Release\K180211_Q3.exe.config
+C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q3\K180211_Q3\bin\Release\K180211_Q3.exe
+C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q3\K180211_Q3\bin\Release\K180211_Q3.pdb
+C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q3\K180211_Q3\obj\Release\K180211_Q3.ProjectInstaller.resources
+C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q3\K180211_Q3\obj\Release\K180211_Q3.csproj.GenerateResource.cache
+C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q3\K180211_Q3\obj\Release\K180211_Q3.exe
+C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q3\K180211_Q3\obj\Release\K180211_Q3.pdb

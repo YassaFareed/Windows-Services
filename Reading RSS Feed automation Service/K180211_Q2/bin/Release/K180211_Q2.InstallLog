@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q2\K180211_Q2\bin\Release\K180211_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q2\K180211_Q2\bin\Release\K180211_Q2.InstallLog
+   assemblypath = C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q2\K180211_Q2\bin\Release\K180211_Q2.exe
+Installing service Rss feed windows service...
+Service Rss feed windows service has been successfully installed.
+Creating EventLog source Rss feed windows service in log Application...
+Committing assembly 'C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q2\K180211_Q2\bin\Release\K180211_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q2\K180211_Q2\bin\Release\K180211_Q2.InstallLog
+   assemblypath = C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q2\K180211_Q2\bin\Release\K180211_Q2.exe

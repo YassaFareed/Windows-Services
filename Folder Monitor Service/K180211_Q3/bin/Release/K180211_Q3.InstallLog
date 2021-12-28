@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q3\K180211_Q3\bin\Release\K180211_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q3\K180211_Q3\bin\Release\K180211_Q3.InstallLog
+   assemblypath = C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q3\K180211_Q3\bin\Release\K180211_Q3.exe
+Installing service Folder Monitor Windows Service...
+Service Folder Monitor Windows Service has been successfully installed.
+Creating EventLog source Folder Monitor Windows Service in log Application...
+Committing assembly 'C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q3\K180211_Q3\bin\Release\K180211_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q3\K180211_Q3\bin\Release\K180211_Q3.InstallLog
+   assemblypath = C:\Users\yassa\source\repos\IPT_Assignment2\K180211_Q3\K180211_Q3\bin\Release\K180211_Q3.exe
